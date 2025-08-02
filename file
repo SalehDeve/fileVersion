@@ -14,6 +14,5 @@
        "update_url": "https://api.example.com/v1",
  }
 ],
-"Status":true,
-ErrorMessage=""
+"Status":true
 }
