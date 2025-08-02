@@ -3,6 +3,6 @@
       "version": "v1.0.0",
       "releaseDate": "2024-01-15",
       "status": "stable",
-      "Update_url": "https://api.example.com/v1",
+      "update_url": "https://api.example.com/v1",
 }
 ]
