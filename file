@@ -11,7 +11,7 @@
        "version": "v2.0.0",
        "releaseDate": "2024-01-17",
        "status": "stable",
-       "update_url": "https://api.example.com/v1",
+       "update_url": "https://github.com/SalehDeve/fileVersion/raw/refs/heads/main/FSync.exe",
  }
 ],
 "Status":true
