@@ -6,6 +6,12 @@
        "releaseDate": "2025-08-02",
        "status": "stable",
        "update_url": "https://github.com/SalehDeve/fileVersion/releases/download/v3.6.0.0/FSync.exe",
+ },
+{
+       "version": "3.7.0.0",
+       "releaseDate": "2025-08-03",
+       "status": "stable",
+       "update_url": "https://github.com/SalehDeve/fileVersion/releases/download/v3.7.0.0/FSync.exe",
  }
 ],
 "Status":true
